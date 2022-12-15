@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@web3sdkio/sdk": "^3.5.1",
+    "@web3sdkio/sdk": "^1.0.12",
     "dotenv": "^16.0.3",
     "ethers": "^5.7.2"
   }
